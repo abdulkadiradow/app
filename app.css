@@ -1,4 +1,24 @@
-p {
-  font-size: 64px;
-  color: purple;
+
+
+body {
+  font-size: 22px;
+}
+p { color: purple;
+}
+
+.gray{
+  color: grey;
+}
+
+#second {
+  font-style: italic;
+
+}
+h1, h2 {
+  color: blue;
+}
+
+.highlight {
+  text-transform: uppercase;
+  background-color: gold;
 }
